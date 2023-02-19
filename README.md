@@ -7,9 +7,9 @@ Comparing 3 levels of coverage:
 - Received bivalent dose
 <br>
 <p float="left">
-  <img src="map1.png" width="330" />
-  <img src="map2.png" width="330" /> 
-  <img src="map3.png" width="330" /> 
+  <img src="map1.png" width="400" />
+  <img src="map2.png" width="400" /> 
+  <img src="map3.png" width="400" /> 
 </p>
 <br>
 
