@@ -11,9 +11,9 @@ I used data from the [NYC Department of Health and Mental Hygiene](https://githu
 
 <br>
 <p float="left">
-  <img src="map1.png" width="400" />
-  <img src="map2.png" width="400" /> 
-  <img src="map3.png" width="400" /> 
+  <img src="map_1.png" width="400" />
+  <img src="map_2.png" width="400" /> 
+  <img src="map_3.png" width="400" /> 
 </p>
 <br>
 
