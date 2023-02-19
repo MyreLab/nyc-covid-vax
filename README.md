@@ -5,3 +5,12 @@ Comparing 3 levels of coverage:
 - Completed primary series
 - Received at least one dose
 - Received bivalent dose
+<br>
+<p float="left">
+  <img src="map1.png" width="330" />
+  <img src="map2.png" width="330" /> 
+  <img src="map3.png" width="330" /> 
+</p>
+<br>
+
+Source: [NYC Department of Health and Mental Hygiene](https://github.com/nychealth/covid-vaccine-data)
